@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "system_error": "cpp"
+    },
+
+    "editor.renderWhitespace": "all",
+}
