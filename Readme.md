@@ -1,9 +1,9 @@
-#Template for C embedded projects.
+# Template for C embedded projects.
 
-##I. Description:
+## I. Description:
 The assumption is to create a project that separates firmware (hardware libraries) from software (target functionalities).
 
-##II. Structure:
+## II. Structure:
 The embedded project has been divided into three parts:
 
 External:
@@ -29,7 +29,7 @@ Tests:
        - Fixtures.
        
 
-##III. Interface:
+## III. Interface:
 - Project is based on the structures interfaces,
 - Every unit (.h and .c file) is represented by one object,
 - Object has end of source file scope which be extended with extern keyword.
