@@ -24,16 +24,4 @@
 		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
 		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>External</name>
-			<type>2</type>
-			<locationURI>virtual:/virtual</locationURI>
-		</link>
-		<link>
-			<name>External/Temp.txt</name>
-			<type>1</type>
-			<locationURI>PARENT-1-PROJECT_LOC/External/Temp.txt</locationURI>
-		</link>
-	</linkedResources>
 </projectDescription>

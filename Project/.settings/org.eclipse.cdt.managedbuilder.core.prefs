@@ -5,7 +5,17 @@ environment/buildEnvironmentInclude/com.atollic.truestudio.exe.debug.toolchain.1
 environment/buildEnvironmentInclude/com.atollic.truestudio.exe.debug.toolchain.1465152520/C_INCLUDE_PATH/operation=remove
 environment/buildEnvironmentInclude/com.atollic.truestudio.exe.debug.toolchain.1465152520/append=true
 environment/buildEnvironmentInclude/com.atollic.truestudio.exe.debug.toolchain.1465152520/appendContributed=true
+environment/buildEnvironmentInclude/com.atollic.truestudio.exe.debug.toolchain.1796162023/CPATH/delimiter=\:
+environment/buildEnvironmentInclude/com.atollic.truestudio.exe.debug.toolchain.1796162023/CPATH/operation=remove
+environment/buildEnvironmentInclude/com.atollic.truestudio.exe.debug.toolchain.1796162023/C_INCLUDE_PATH/delimiter=\:
+environment/buildEnvironmentInclude/com.atollic.truestudio.exe.debug.toolchain.1796162023/C_INCLUDE_PATH/operation=remove
+environment/buildEnvironmentInclude/com.atollic.truestudio.exe.debug.toolchain.1796162023/append=true
+environment/buildEnvironmentInclude/com.atollic.truestudio.exe.debug.toolchain.1796162023/appendContributed=true
 environment/buildEnvironmentLibrary/com.atollic.truestudio.exe.debug.toolchain.1465152520/LIBRARY_PATH/delimiter=\:
 environment/buildEnvironmentLibrary/com.atollic.truestudio.exe.debug.toolchain.1465152520/LIBRARY_PATH/operation=remove
 environment/buildEnvironmentLibrary/com.atollic.truestudio.exe.debug.toolchain.1465152520/append=true
 environment/buildEnvironmentLibrary/com.atollic.truestudio.exe.debug.toolchain.1465152520/appendContributed=true
+environment/buildEnvironmentLibrary/com.atollic.truestudio.exe.debug.toolchain.1796162023/LIBRARY_PATH/delimiter=\:
+environment/buildEnvironmentLibrary/com.atollic.truestudio.exe.debug.toolchain.1796162023/LIBRARY_PATH/operation=remove
+environment/buildEnvironmentLibrary/com.atollic.truestudio.exe.debug.toolchain.1796162023/append=true
+environment/buildEnvironmentLibrary/com.atollic.truestudio.exe.debug.toolchain.1796162023/appendContributed=true
